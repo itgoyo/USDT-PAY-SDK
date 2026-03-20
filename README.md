@@ -3,6 +3,8 @@
 > 文件位置：`usdt_pay.py`
 > 适用支付网关：epusdt（TRC20 USDT 收款）
 
+epudt项目官网：https://github.com/assimon/epusdt
+
 ---
 
 ## 目录
